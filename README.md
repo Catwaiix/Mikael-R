@@ -1,4 +1,4 @@
-### Hey, I'm Mikael! 👋🏾
+### Hey, I'm Mikael! 👋🏻
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mikaelr16)](https://twitter.com/mikaelr16)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mikarg9+github@gmail.com)
@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Readme-Template-Generator](https://github.com/Mikael-R/Readme-Template-Generator)
 - 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on Programming Projects 🎓
-- 🤔 I’m looking for help with frameworks JS
+- 💡 I’m looking to collaborate on Programming Projects
+- 👨🏻‍💻 I’m looking for help with JS/TS
 - 💬 Ask me about Python, Javascript and Typescript
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I use VIM but I don't like i3wm!
+- ⚡ Fun fact: I use Vim but I don't like i3wm!
 
 </a>
 <a href="https://github.com/Mikael-R">
