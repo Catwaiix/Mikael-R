@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mikael-R&label=Views&color=blue&style=flat-square" alt="Mikael-R Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mikael-R&label=Views&color=green&style=flat-square" alt="Mikael-R Views" /> </p>
 
 ### Hey, I'm Mikael! 👋🏻
 
