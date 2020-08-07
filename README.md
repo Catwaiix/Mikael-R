@@ -1,8 +1,21 @@
 ### Hey, I'm Mikael! 👋🏻
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mikaelr16)](https://twitter.com/mikaelr16)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mikarg9+github@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikael-rolim-522aa21b1/)](https://www.linkedin.com/in/mikael-rolim-522aa21b1/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mikael-R&label=Views&color=blue&style=flat-square" alt="Mikael-R Views" /> </p>
+
+<a href="https://twitter.com/mikaelr16">
+  <img align="left" alt="Mikael-R Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/mikael-rolim-522aa21b1">
+  <img align="left" alt="Mikael-R Linkdein" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Mikael-R">
+  <img align="left" alt="Mikael-R Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/mikaelr404/">
+  <img align="left" alt="Mikael-R Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br />
 
 - 🔭 I’m currently working on [Readme-Template-Generator](https://github.com/Mikael-R/Readme-Template-Generator)
 - 🌱 I’m currently learning Typescript
