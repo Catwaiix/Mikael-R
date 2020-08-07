@@ -26,7 +26,10 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I use Vim but I don't like i3wm!
 
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-R&layout=compact&theme=dark" alt="Mikael-R most used languages" />
 </a>
+
 <a href="https://github.com/Mikael-R">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikael-R&show_icons=true&theme=dark&line_height=27" alt="Mikael-R github stats"/>
 </a>
