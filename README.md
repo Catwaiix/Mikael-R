@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mikael-R&label=Profile Views&color=green&style=flat-square" alt="Mikael-R Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mikael-R&label=Profile Views&color=blue&style=flat-square" alt="Mikael-R Views" /> </p>
 
 ### Hey, I'm Mikael! 👋🏻
 
@@ -27,17 +27,17 @@
 - ⚡ Fun fact: I use Vim but I don't like i3wm!
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-R&layout=compact&theme=dark" alt="Mikael-R most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-R&layout=compact&theme=white" alt="Mikael-R most used languages" />
 </a>
 
 <a href="https://github.com/Mikael-R">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikael-R&show_icons=true&theme=dark&line_height=27" alt="Mikael-R github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikael-R&show_icons=true&theme=white&line_height=27" alt="Mikael-R github stats"/>
 </a>
 
 <a href="https://github.com/Mikael-R/Readme-Template-Generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mikael-R&repo=Readme-Template-Generator&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mikael-R&repo=Readme-Template-Generator&theme=white" />
 </a>
 
 <a href="https://github.com/Mikael-R/Atlas">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mikael-R&repo=Atlas&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mikael-R&repo=Atlas&theme=white" />
 </a>
