@@ -1,6 +1,9 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mikael-R&label=Profile Views&color=blue&style=flat-square" alt="Mikael-R Views" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Mikael-R&label=Profile Views&color=blue&style=flat-square" alt="Mikael-R Profile Views" /> </p>
 
-### Hey, I'm Mikael! 👋🏻
+<h2>
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" alt="Cat Gif" /> 
+  Hi, welcome!
+</h2>
 
 <a href="https://twitter.com/mikaelr16">
   <img align="left" alt="Mikael-R Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -20,11 +23,11 @@
 
 - 🔭 I’m currently working on [Readme-Template-Generator](https://github.com/Mikael-R/Readme-Template-Generator)
 - 🌱 I’m currently learning Typescript
-- 💡 I’m looking to collaborate on Programming Projects
+- 💡 I’m looking to collaborate on [Password Generator](https://github.com/password-generator) projects
 - 👨🏻‍💻 I’m looking for help with JS/TS
-- 💬 Ask me about Python, Javascript and Typescript
-- 😄 Pronouns: he/his
+- 💬 Ask me about Python, Javascript, Typescript and frameworks JS
 - ⚡ Fun fact: I use Vim but I don't like i3wm!
+
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-R&layout=compact&theme=white" alt="Mikael-R most used languages" />
