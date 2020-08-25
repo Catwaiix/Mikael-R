@@ -1,7 +1,8 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Mikael-R&label=Profile Views&color=blue&style=flat-square" alt="Mikael-R Profile Views" /> </p>
 
 <h2 align="center">
-   I'm a Mikael, Developer and Student!
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="32px" alt="Drawing Cat Gif">
+  I'm a Mikael, Developer and Student!
 </h2>
 
 - 🔭 I’m currently working on [readme-template-generator](https://github.com/Mikael-R/readme-template-generator)
@@ -12,7 +13,7 @@
 - 😄 Fun fact: I use Vim but I don't like i3wm!
 
 <h3>
-  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="22px" alt="Cat Gif" /> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="22px" alt="Drawing Cat Gif" /> 
   Connect with me:
 </h3>
 
