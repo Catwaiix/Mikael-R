@@ -28,19 +28,21 @@
 - 💬 Ask me about Python, Javascript, Typescript and frameworks JS
 - ⚡ Fun fact: I use Vim but I don't like i3wm!
 
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-R&layout=compact&theme=white" alt="Mikael-R most used languages" />
-</a>
+<details>
+  <summary>:zap: Github Stats</summary>
 
-<a href="https://github.com/Mikael-R">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikael-R&show_icons=true&theme=white&line_height=27" alt="Mikael-R github stats"/>
-</a>
+  <a href="https://github.com/Mikael-R">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikael-R&show_icons=true&theme=white&line_height=27" alt="Mikael-R github stats"/>
+  </a>
 
-<a href="https://github.com/Mikael-R/Readme-Template-Generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mikael-R&repo=Readme-Template-Generator&theme=white" />
-</a>
-
-<a href="https://github.com/Mikael-R/Atlas">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mikael-R&repo=Atlas&theme=white" />
-</a>
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-R&layout=compact&theme=white" alt="Mikael-R most used languages" />
+  </a>
+</details>
