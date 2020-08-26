@@ -38,6 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#11](https://github.com//password-generator/password-generator-package/pull/11) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+2. 💪 Opened PR [#11](https://github.com//password-generator/password-generator-package/pull/11) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+3. 🎉 Merged PR [#24](https://github.com//password-generator/password-generator-web/pull/24) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+4. 🎉 Merged PR [#10](https://github.com//password-generator/password-generator-package/pull/10) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+5. 💪 Opened PR [#10](https://github.com//password-generator/password-generator-package/pull/10) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
 <!--END_SECTION:activity-->
 </details>
 
