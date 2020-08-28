@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com//password-generator/password-generator-package/pull/11) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
-2. 💪 Opened PR [#11](https://github.com//password-generator/password-generator-package/pull/11) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
-3. 🎉 Merged PR [#24](https://github.com//password-generator/password-generator-web/pull/24) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
-4. 🎉 Merged PR [#10](https://github.com//password-generator/password-generator-package/pull/10) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
-5. 💪 Opened PR [#10](https://github.com//password-generator/password-generator-package/pull/10) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+1. 🎉 Merged PR [#24](https://github.com//password-generator/password-generator-web/pull/24) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+2. 💪 Opened PR [#23](https://github.com//password-generator/password-generator-web/pull/23) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+3. ❌ Closed PR [#21](https://github.com//password-generator/password-generator-web/pull/21) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+4. 💪 Opened PR [#22](https://github.com//password-generator/password-generator-web/pull/22) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+5. 💪 Opened PR [#21](https://github.com//password-generator/password-generator-web/pull/21) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
 <!--END_SECTION:activity-->
 </details>
 
