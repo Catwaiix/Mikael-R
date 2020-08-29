@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//marcoshenrique-dev/template-finder/issues/1) in [marcoshenrique-dev/template-finder](https://github.com//marcoshenrique-dev/template-finder)
-2. ❌ Closed PR [#2](https://github.com//password-generator/password-generator-cli/pull/2) in [password-generator/password-generator-cli](https://github.com//password-generator/password-generator-cli)
-3. 💪 Opened PR [#2](https://github.com//password-generator/password-generator-cli/pull/2) in [password-generator/password-generator-cli](https://github.com//password-generator/password-generator-cli)
-4. 🎉 Merged PR [#1](https://github.com//password-generator/password-generator-cli/pull/1) in [password-generator/password-generator-cli](https://github.com//password-generator/password-generator-cli)
-5. 💪 Opened PR [#1](https://github.com//password-generator/password-generator-cli/pull/1) in [password-generator/password-generator-cli](https://github.com//password-generator/password-generator-cli)
+1. ❗️ Closed issue [#1](https://github.com//marcoshenrique-dev/template-finder/issues/1) in [marcoshenrique-dev/template-finder](https://github.com//marcoshenrique-dev/template-finder)
+2. ❗️ Opened issue [#1](https://github.com//marcoshenrique-dev/template-finder/issues/1) in [marcoshenrique-dev/template-finder](https://github.com//marcoshenrique-dev/template-finder)
+3. ❌ Closed PR [#2](https://github.com//password-generator/password-generator-cli/pull/2) in [password-generator/password-generator-cli](https://github.com//password-generator/password-generator-cli)
+4. 💪 Opened PR [#2](https://github.com//password-generator/password-generator-cli/pull/2) in [password-generator/password-generator-cli](https://github.com//password-generator/password-generator-cli)
+5. 🎉 Merged PR [#1](https://github.com//password-generator/password-generator-cli/pull/1) in [password-generator/password-generator-cli](https://github.com//password-generator/password-generator-cli)
 <!--END_SECTION:activity-->
 </details>
 
