@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//marcoshenrique-dev/template-finder/issues/1) in [marcoshenrique-dev/template-finder](https://github.com//marcoshenrique-dev/template-finder)
-2. ❗️ Opened issue [#1](https://github.com//marcoshenrique-dev/template-finder/issues/1) in [marcoshenrique-dev/template-finder](https://github.com//marcoshenrique-dev/template-finder)
-3. ❌ Closed PR [#2](https://github.com//password-generator/password-generator-cli/pull/2) in [password-generator/password-generator-cli](https://github.com//password-generator/password-generator-cli)
-4. 💪 Opened PR [#2](https://github.com//password-generator/password-generator-cli/pull/2) in [password-generator/password-generator-cli](https://github.com//password-generator/password-generator-cli)
-5. 🎉 Merged PR [#1](https://github.com//password-generator/password-generator-cli/pull/1) in [password-generator/password-generator-cli](https://github.com//password-generator/password-generator-cli)
+1. 🎉 Merged PR [#3](https://github.com//password-generator/password-generator-cli/pull/3) in [password-generator/password-generator-cli](https://github.com//password-generator/password-generator-cli)
+2. 💪 Opened PR [#3](https://github.com//password-generator/password-generator-cli/pull/3) in [password-generator/password-generator-cli](https://github.com//password-generator/password-generator-cli)
+3. 🎉 Merged PR [#13](https://github.com//password-generator/password-generator-package/pull/13) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+4. ❗️ Opened issue [#10](https://github.com//JS-DevTools/npm-publish/issues/10) in [JS-DevTools/npm-publish](https://github.com//JS-DevTools/npm-publish)
+5. 💪 Opened PR [#13](https://github.com//password-generator/password-generator-package/pull/13) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
 <!--END_SECTION:activity-->
 </details>
 
