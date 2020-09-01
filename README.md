@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//Mikael-R/readme-template-generator/issues/1) in [Mikael-R/readme-template-generator](https://github.com//Mikael-R/readme-template-generator)
-2. ❗️ Closed issue [#1](https://github.com//Mikael-R/readme-template-generator/issues/1) in [Mikael-R/readme-template-generator](https://github.com//Mikael-R/readme-template-generator)
-3. 🎉 Merged PR [#14](https://github.com//password-generator/password-generator-package/pull/14) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
-4. 💪 Opened PR [#14](https://github.com//password-generator/password-generator-package/pull/14) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
-5. 🎉 Merged PR [#27](https://github.com//password-generator/password-generator-web/pull/27) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+1. 🎉 Merged PR [#28](https://github.com//password-generator/password-generator-web/pull/28) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+2. 🗣 Commented on [#1](https://github.com//Mikael-R/readme-template-generator/issues/1) in [Mikael-R/readme-template-generator](https://github.com//Mikael-R/readme-template-generator)
+3. ❗️ Closed issue [#1](https://github.com//Mikael-R/readme-template-generator/issues/1) in [Mikael-R/readme-template-generator](https://github.com//Mikael-R/readme-template-generator)
+4. 🎉 Merged PR [#14](https://github.com//password-generator/password-generator-package/pull/14) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+5. 💪 Opened PR [#14](https://github.com//password-generator/password-generator-package/pull/14) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
 <!--END_SECTION:activity-->
 </details>
 
