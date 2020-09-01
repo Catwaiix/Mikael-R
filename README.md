@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com//password-generator/password-generator-package/pull/14) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
-2. 💪 Opened PR [#14](https://github.com//password-generator/password-generator-package/pull/14) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
-3. 🎉 Merged PR [#27](https://github.com//password-generator/password-generator-web/pull/27) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
-4. ❗️ Closed issue [#10](https://github.com//JS-DevTools/npm-publish/issues/10) in [JS-DevTools/npm-publish](https://github.com//JS-DevTools/npm-publish)
-5. 🗣 Commented on [#10](https://github.com//JS-DevTools/npm-publish/issues/10) in [JS-DevTools/npm-publish](https://github.com//JS-DevTools/npm-publish)
+1. 🗣 Commented on [#1](https://github.com//Mikael-R/readme-template-generator/issues/1) in [Mikael-R/readme-template-generator](https://github.com//Mikael-R/readme-template-generator)
+2. ❗️ Closed issue [#1](https://github.com//Mikael-R/readme-template-generator/issues/1) in [Mikael-R/readme-template-generator](https://github.com//Mikael-R/readme-template-generator)
+3. 🎉 Merged PR [#14](https://github.com//password-generator/password-generator-package/pull/14) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+4. 💪 Opened PR [#14](https://github.com//password-generator/password-generator-package/pull/14) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+5. 🎉 Merged PR [#27](https://github.com//password-generator/password-generator-web/pull/27) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
 <!--END_SECTION:activity-->
 </details>
 
