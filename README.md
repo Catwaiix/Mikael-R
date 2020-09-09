@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com//password-generator/password-generator-package/pull/15) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
-2. 💪 Opened PR [#15](https://github.com//password-generator/password-generator-package/pull/15) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
-3. 🗣 Commented on [#825](https://github.com//PKief/vscode-material-icon-theme/issues/825) in [PKief/vscode-material-icon-theme](https://github.com//PKief/vscode-material-icon-theme)
-4. 🎉 Merged PR [#28](https://github.com//password-generator/password-generator-web/pull/28) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
-5. 🗣 Commented on [#1](https://github.com//Mikael-R/readme-template-generator/issues/1) in [Mikael-R/readme-template-generator](https://github.com//Mikael-R/readme-template-generator)
+1. 🎉 Merged PR [#17](https://github.com//password-generator/password-generator-package/pull/17) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+2. 💪 Opened PR [#17](https://github.com//password-generator/password-generator-package/pull/17) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+3. 🎉 Merged PR [#16](https://github.com//password-generator/password-generator-package/pull/16) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+4. 💪 Opened PR [#16](https://github.com//password-generator/password-generator-package/pull/16) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+5. 🎉 Merged PR [#15](https://github.com//password-generator/password-generator-package/pull/15) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
 <!--END_SECTION:activity-->
 </details>
 
