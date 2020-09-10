@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com//password-generator/password-generator-package/pull/17) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
-2. 💪 Opened PR [#17](https://github.com//password-generator/password-generator-package/pull/17) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
-3. 🎉 Merged PR [#16](https://github.com//password-generator/password-generator-package/pull/16) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
-4. 💪 Opened PR [#16](https://github.com//password-generator/password-generator-package/pull/16) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
-5. 🎉 Merged PR [#15](https://github.com//password-generator/password-generator-package/pull/15) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+1. 🎉 Merged PR [#4](https://github.com//password-generator/password-generator-cli/pull/4) in [password-generator/password-generator-cli](https://github.com//password-generator/password-generator-cli)
+2. 💪 Opened PR [#4](https://github.com//password-generator/password-generator-cli/pull/4) in [password-generator/password-generator-cli](https://github.com//password-generator/password-generator-cli)
+3. 🎉 Merged PR [#17](https://github.com//password-generator/password-generator-package/pull/17) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+4. 💪 Opened PR [#17](https://github.com//password-generator/password-generator-package/pull/17) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+5. 🎉 Merged PR [#16](https://github.com//password-generator/password-generator-package/pull/16) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
 <!--END_SECTION:activity-->
 </details>
 
