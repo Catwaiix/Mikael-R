@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com//password-generator/password-generator-web/pull/33) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
-2. 🎉 Merged PR [#3](https://github.com//password-generator/password-check-strength/pull/3) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
-3. 🗣 Commented on [#3](https://github.com//password-generator/password-check-strength/issues/3) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
-4. 🎉 Merged PR [#32](https://github.com//password-generator/password-generator-web/pull/32) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
-5. 💪 Opened PR [#2](https://github.com//password-generator/password-check-strength/pull/2) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
+1. 💪 Opened PR [#19](https://github.com//password-generator/password-generator-package/pull/19) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+2. 💪 Opened PR [#34](https://github.com//password-generator/password-generator-web/pull/34) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+3. 💪 Opened PR [#33](https://github.com//password-generator/password-generator-web/pull/33) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+4. 🎉 Merged PR [#3](https://github.com//password-generator/password-check-strength/pull/3) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
+5. 🗣 Commented on [#3](https://github.com//password-generator/password-check-strength/issues/3) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
 <!--END_SECTION:activity-->
 </details>
 
