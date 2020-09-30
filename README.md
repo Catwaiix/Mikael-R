@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/password-generator/password-check-strength/pull/4) in [password-generator/password-check-strength](https://github.com/password-generator/password-check-strength)
-2. 💪 Opened PR [#19](https://github.com/password-generator/password-generator-package/pull/19) in [password-generator/password-generator-package](https://github.com/password-generator/password-generator-package)
-3. 💪 Opened PR [#34](https://github.com/password-generator/password-generator-web/pull/34) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-4. 💪 Opened PR [#33](https://github.com/password-generator/password-generator-web/pull/33) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-5. 🎉 Merged PR [#3](https://github.com/password-generator/password-check-strength/pull/3) in [password-generator/password-check-strength](https://github.com/password-generator/password-check-strength)
+1. 💪 Opened PR [#35](https://github.com/password-generator/password-generator-web/pull/35) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+2. 💪 Opened PR [#4](https://github.com/password-generator/password-check-strength/pull/4) in [password-generator/password-check-strength](https://github.com/password-generator/password-check-strength)
+3. 💪 Opened PR [#19](https://github.com/password-generator/password-generator-package/pull/19) in [password-generator/password-generator-package](https://github.com/password-generator/password-generator-package)
+4. 💪 Opened PR [#34](https://github.com/password-generator/password-generator-web/pull/34) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+5. 💪 Opened PR [#33](https://github.com/password-generator/password-generator-web/pull/33) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
 <!--END_SECTION:activity-->
 </details>
 
