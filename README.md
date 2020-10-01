@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/sobolevn/restrict-cursing-action/issues/41) in [sobolevn/restrict-cursing-action](https://github.com/sobolevn/restrict-cursing-action)
-2. 💪 Opened PR [#36](https://github.com/password-generator/password-generator-web/pull/36) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-3. 💪 Opened PR [#7](https://github.com/sflynlang/sflynlang-bot/pull/7) in [sflynlang/sflynlang-bot](https://github.com/sflynlang/sflynlang-bot)
-4. 💪 Opened PR [#35](https://github.com/password-generator/password-generator-web/pull/35) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-5. 💪 Opened PR [#4](https://github.com/password-generator/password-check-strength/pull/4) in [password-generator/password-check-strength](https://github.com/password-generator/password-check-strength)
+1. 🎉 Merged PR [#4](https://github.com/Mikael-R/readme-template-generator/pull/4) in [Mikael-R/readme-template-generator](https://github.com/Mikael-R/readme-template-generator)
+2. 🗣 Commented on [#41](https://github.com/sobolevn/restrict-cursing-action/issues/41) in [sobolevn/restrict-cursing-action](https://github.com/sobolevn/restrict-cursing-action)
+3. 💪 Opened PR [#36](https://github.com/password-generator/password-generator-web/pull/36) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+4. 💪 Opened PR [#7](https://github.com/sflynlang/sflynlang-bot/pull/7) in [sflynlang/sflynlang-bot](https://github.com/sflynlang/sflynlang-bot)
+5. 💪 Opened PR [#35](https://github.com/password-generator/password-generator-web/pull/35) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
 <!--END_SECTION:activity-->
 </details>
 
