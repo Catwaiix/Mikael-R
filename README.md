@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/Mikael-R/chat-js/issues/7) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
-2. 🗣 Commented on [#5](https://github.com/Mikael-R/chat-js/issues/5) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
-3. 🎉 Merged PR [#4](https://github.com/Mikael-R/chat-js/pull/4) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
-4. ❌ Closed PR [#2](https://github.com/Mikael-R/chat-js/pull/2) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
-5. 🗣 Commented on [#2](https://github.com/Mikael-R/chat-js/issues/2) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
+1. 🗣 Commented on [#5](https://github.com/Mikael-R/chat-js/issues/5) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
+2. ❌ Closed PR [#6](https://github.com/Mikael-R/chat-js/pull/6) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
+3. 🗣 Commented on [#6](https://github.com/Mikael-R/chat-js/issues/6) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
+4. ❗️ Opened issue [#7](https://github.com/Mikael-R/chat-js/issues/7) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
+5. 🗣 Commented on [#5](https://github.com/Mikael-R/chat-js/issues/5) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
 <!--END_SECTION:activity-->
 </details>
 
