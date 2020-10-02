@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Mikael-R/readme-template-generator/pull/4) in [Mikael-R/readme-template-generator](https://github.com/Mikael-R/readme-template-generator)
-2. 🗣 Commented on [#41](https://github.com/sobolevn/restrict-cursing-action/issues/41) in [sobolevn/restrict-cursing-action](https://github.com/sobolevn/restrict-cursing-action)
-3. 💪 Opened PR [#36](https://github.com/password-generator/password-generator-web/pull/36) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-4. 💪 Opened PR [#7](https://github.com/sflynlang/sflynlang-bot/pull/7) in [sflynlang/sflynlang-bot](https://github.com/sflynlang/sflynlang-bot)
-5. 💪 Opened PR [#35](https://github.com/password-generator/password-generator-web/pull/35) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+1. ❗️ Opened issue [#7](https://github.com/Mikael-R/chat-js/issues/7) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
+2. 🗣 Commented on [#5](https://github.com/Mikael-R/chat-js/issues/5) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
+3. 🎉 Merged PR [#4](https://github.com/Mikael-R/chat-js/pull/4) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
+4. ❌ Closed PR [#2](https://github.com/Mikael-R/chat-js/pull/2) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
+5. 🗣 Commented on [#2](https://github.com/Mikael-R/chat-js/issues/2) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
 <!--END_SECTION:activity-->
 </details>
 
