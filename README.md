@@ -39,10 +39,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#659](https://github.com/fent/node-ytdl-core/issues/659) in [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core)
-2. 🎉 Merged PR [#2](https://github.com/Mikael-R/aziris/pull/2) in [Mikael-R/aziris](https://github.com/Mikael-R/aziris)
-3. ❗️ Closed issue [#7](https://github.com/Mikael-R/chat-js/issues/7) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
-4. 🗣 Commented on [#7](https://github.com/Mikael-R/chat-js/issues/7) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
-5. ❌ Closed PR [#8](https://github.com/Mikael-R/chat-js/pull/8) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
+2. 🗣 Commented on [#659](https://github.com/fent/node-ytdl-core/issues/659) in [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core)
+3. 🎉 Merged PR [#2](https://github.com/Mikael-R/aziris/pull/2) in [Mikael-R/aziris](https://github.com/Mikael-R/aziris)
+4. ❗️ Closed issue [#7](https://github.com/Mikael-R/chat-js/issues/7) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
+5. 🗣 Commented on [#7](https://github.com/Mikael-R/chat-js/issues/7) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
 <!--END_SECTION:activity-->
 </details>
 
