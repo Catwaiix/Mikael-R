@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#37](https://github.com/password-generator/password-generator-web/issues/37) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-2. 🎉 Merged PR [#38](https://github.com/password-generator/password-generator-web/pull/38) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-3. 💪 Opened PR [#38](https://github.com/password-generator/password-generator-web/pull/38) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-4. ❗️ Opened issue [#37](https://github.com/password-generator/password-generator-web/issues/37) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-5. 🗣 Commented on [#659](https://github.com/fent/node-ytdl-core/issues/659) in [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core)
+1. 🎉 Merged PR [#39](https://github.com/password-generator/password-generator-web/pull/39) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+2. ❗️ Closed issue [#37](https://github.com/password-generator/password-generator-web/issues/37) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+3. 🎉 Merged PR [#38](https://github.com/password-generator/password-generator-web/pull/38) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+4. 💪 Opened PR [#38](https://github.com/password-generator/password-generator-web/pull/38) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+5. ❗️ Opened issue [#37](https://github.com/password-generator/password-generator-web/issues/37) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
 <!--END_SECTION:activity-->
 </details>
 
