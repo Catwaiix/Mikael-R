@@ -5,9 +5,9 @@
   I'm a Mikael, Developer and Student!
 </h2>
 
-- 🔭 I’m currently working on [readme-template-generator](https://github.com/Mikael-R/readme-template-generator)
+- 🔭 I’m currently working on [arquimat](https://github.com/Mikael-R/arquimat)
 - 🌱 I’m currently learning Typescript
-- 💡 I’m looking to collaborate on [password-generator](https://github.com/password-generator) projects
+- 💡 I’m looking to collaborate on open source projects
 - 👨🏻‍💻 I’m looking for help with JS/TS
 - 💬 Ask me about Python, Javascript, Typescript and frameworks JS
 - 😄 Fun fact: I use Vim but I don't like i3wm!
