@@ -38,11 +38,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/filipedeschamps/ideia-unica/issues/2) in [filipedeschamps/ideia-unica](https://github.com/filipedeschamps/ideia-unica)
-2. 🎉 Merged PR [#39](https://github.com/password-generator/password-generator-web/pull/39) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-3. ❗️ Closed issue [#37](https://github.com/password-generator/password-generator-web/issues/37) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-4. 🎉 Merged PR [#38](https://github.com/password-generator/password-generator-web/pull/38) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-5. 💪 Opened PR [#38](https://github.com/password-generator/password-generator-web/pull/38) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+1. 🗣 Commented on [#27](https://github.com/Tibfib/eslint-plugin-import-helpers/issues/27) in [Tibfib/eslint-plugin-import-helpers](https://github.com/Tibfib/eslint-plugin-import-helpers)
+2. 🗣 Commented on [#2](https://github.com/filipedeschamps/ideia-unica/issues/2) in [filipedeschamps/ideia-unica](https://github.com/filipedeschamps/ideia-unica)
+3. 🎉 Merged PR [#39](https://github.com/password-generator/password-generator-web/pull/39) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+4. ❗️ Closed issue [#37](https://github.com/password-generator/password-generator-web/issues/37) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+5. 🎉 Merged PR [#38](https://github.com/password-generator/password-generator-web/pull/38) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
 <!--END_SECTION:activity-->
 </details>
 
