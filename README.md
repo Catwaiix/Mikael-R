@@ -13,7 +13,7 @@
 - 😄 Fun fact: I use Vim but I don't like i3wm!
 
 <h3>
-  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="22px" alt="Drawing Cat Gif" /> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="22px" alt="Drawing Cat Gif" />
   Connect with me:
 </h3>
 
@@ -36,15 +36,16 @@
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
-  
+
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#1](https://github.com/FelipeNathan/purchasing-power/issues/1) in [FelipeNathan/purchasing-power](https://github.com/FelipeNathan/purchasing-power)
 2. 🗣 Commented on [#27](https://github.com/Tibfib/eslint-plugin-import-helpers/issues/27) in [Tibfib/eslint-plugin-import-helpers](https://github.com/Tibfib/eslint-plugin-import-helpers)
 3. 🗣 Commented on [#2](https://github.com/filipedeschamps/ideia-unica/issues/2) in [filipedeschamps/ideia-unica](https://github.com/filipedeschamps/ideia-unica)
 4. 🎉 Merged PR [#39](https://github.com/password-generator/password-generator-web/pull/39) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
 5. ❗️ Closed issue [#37](https://github.com/password-generator/password-generator-web/issues/37) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-<!--END_SECTION:activity-->
-</details>
+   <!--END_SECTION:activity-->
+   </details>
 
 <details>
   <summary>:zap: Github Stats</summary>
