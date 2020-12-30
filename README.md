@@ -45,11 +45,11 @@
 
   <!--START_SECTION:activity-->
 
-  1. 🗣 Commented on [#1](https://github.com/FelipeNathan/purchasing-power/issues/1) in
-  [FelipeNathan/purchasing-power](https://github.com/FelipeNathan/purchasing-power)
-  2. 🗣 Commented on [#27](https://github.com/Tibfib/eslint-plugin-import-helpers/issues/27) in
-  [Tibfib/eslint-plugin-import-helpers](https://github.com/Tibfib/eslint-plugin-import-helpers)
-  3. 🗣 Commented on [#2](https://github.com/filipedeschamps/ideia-unica/issues/2) in
+1. 🗣 Commented on [#1](https://github.com/FelipeNathan/purchasing-power/issues/1) in [FelipeNathan/purchasing-power](https://github.com/FelipeNathan/purchasing-power)
+2. 🗣 Commented on [#27](https://github.com/Tibfib/eslint-plugin-import-helpers/issues/27) in [Tibfib/eslint-plugin-import-helpers](https://github.com/Tibfib/eslint-plugin-import-helpers)
+3. 🗣 Commented on [#2](https://github.com/filipedeschamps/ideia-unica/issues/2) in [filipedeschamps/ideia-unica](https://github.com/filipedeschamps/ideia-unica)
+4. 🎉 Merged PR [#39](https://github.com/password-generator/password-generator-web/pull/39) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+5. ❗️ Closed issue [#37](https://github.com/password-generator/password-generator-web/issues/37) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
   [filipedeschamps/ideia-unica](https://github.com/filipedeschamps/ideia-unica)
   4. 🎉 Merged PR [#39](https://github.com/password-generator/password-generator-web/pull/39) in
   [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
