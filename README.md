@@ -45,11 +45,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/allankildare/app-de-meditacao/pull/1) in [allankildare/app-de-meditacao](https://github.com/allankildare/app-de-meditacao)
-2. ❌ Closed PR [#4](https://github.com/trindadematheus/whastapp-sticker-bot/pull/4) in [trindadematheus/whastapp-sticker-bot](https://github.com/trindadematheus/whastapp-sticker-bot)
-3. 💪 Opened PR [#4](https://github.com/trindadematheus/whastapp-sticker-bot/pull/4) in [trindadematheus/whastapp-sticker-bot](https://github.com/trindadematheus/whastapp-sticker-bot)
-4. 🗣 Commented on [#1](https://github.com/FelipeNathan/purchasing-power/issues/1) in [FelipeNathan/purchasing-power](https://github.com/FelipeNathan/purchasing-power)
-5. 🗣 Commented on [#27](https://github.com/Tibfib/eslint-plugin-import-helpers/issues/27) in [Tibfib/eslint-plugin-import-helpers](https://github.com/Tibfib/eslint-plugin-import-helpers)
+1. ❗️ Opened issue [#1309](https://github.com/open-wa/wa-automate-nodejs/issues/1309) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 💪 Opened PR [#1](https://github.com/allankildare/app-de-meditacao/pull/1) in [allankildare/app-de-meditacao](https://github.com/allankildare/app-de-meditacao)
+3. ❌ Closed PR [#4](https://github.com/trindadematheus/whastapp-sticker-bot/pull/4) in [trindadematheus/whastapp-sticker-bot](https://github.com/trindadematheus/whastapp-sticker-bot)
+4. 💪 Opened PR [#4](https://github.com/trindadematheus/whastapp-sticker-bot/pull/4) in [trindadematheus/whastapp-sticker-bot](https://github.com/trindadematheus/whastapp-sticker-bot)
+5. 🗣 Commented on [#1](https://github.com/FelipeNathan/purchasing-power/issues/1) in [FelipeNathan/purchasing-power](https://github.com/FelipeNathan/purchasing-power)
   [filipedeschamps/ideia-unica](https://github.com/filipedeschamps/ideia-unica)
   4. 🎉 Merged PR [#39](https://github.com/password-generator/password-generator-web/pull/39) in
   [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
