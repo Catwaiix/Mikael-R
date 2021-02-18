@@ -45,11 +45,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/password-generator/password-check-strength/pull/5) in [password-generator/password-check-strength](https://github.com/password-generator/password-check-strength)
-2. 💪 Opened PR [#5](https://github.com/password-generator/password-check-strength/pull/5) in [password-generator/password-check-strength](https://github.com/password-generator/password-check-strength)
-3. ❗️ Opened issue [#1309](https://github.com/open-wa/wa-automate-nodejs/issues/1309) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 💪 Opened PR [#1](https://github.com/allankildare/app-de-meditacao/pull/1) in [allankildare/app-de-meditacao](https://github.com/allankildare/app-de-meditacao)
-5. ❌ Closed PR [#4](https://github.com/trindadematheus/whastapp-sticker-bot/pull/4) in [trindadematheus/whastapp-sticker-bot](https://github.com/trindadematheus/whastapp-sticker-bot)
+1. 🎉 Merged PR [#41](https://github.com/password-generator/password-generator-web/pull/41) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+2. 💪 Opened PR [#41](https://github.com/password-generator/password-generator-web/pull/41) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+3. 🎉 Merged PR [#5](https://github.com/password-generator/password-check-strength/pull/5) in [password-generator/password-check-strength](https://github.com/password-generator/password-check-strength)
+4. 💪 Opened PR [#5](https://github.com/password-generator/password-check-strength/pull/5) in [password-generator/password-check-strength](https://github.com/password-generator/password-check-strength)
+5. ❗️ Opened issue [#1309](https://github.com/open-wa/wa-automate-nodejs/issues/1309) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
   [filipedeschamps/ideia-unica](https://github.com/filipedeschamps/ideia-unica)
   4. 🎉 Merged PR [#39](https://github.com/password-generator/password-generator-web/pull/39) in
   [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
