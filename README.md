@@ -45,11 +45,11 @@
 
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#41](https://github.com/password-generator/password-generator-web/pull/41) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-2. 💪 Opened PR [#41](https://github.com/password-generator/password-generator-web/pull/41) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-3. 🎉 Merged PR [#5](https://github.com/password-generator/password-check-strength/pull/5) in [password-generator/password-check-strength](https://github.com/password-generator/password-check-strength)
-4. 💪 Opened PR [#5](https://github.com/password-generator/password-check-strength/pull/5) in [password-generator/password-check-strength](https://github.com/password-generator/password-check-strength)
-5. ❗️ Opened issue [#1309](https://github.com/open-wa/wa-automate-nodejs/issues/1309) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. ❗️ Opened issue [#264](https://github.com/BrasilAPI/BrasilAPI/issues/264) in [BrasilAPI/BrasilAPI](https://github.com/BrasilAPI/BrasilAPI)
+2. 🎉 Merged PR [#41](https://github.com/password-generator/password-generator-web/pull/41) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+3. 💪 Opened PR [#41](https://github.com/password-generator/password-generator-web/pull/41) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+4. 🎉 Merged PR [#5](https://github.com/password-generator/password-check-strength/pull/5) in [password-generator/password-check-strength](https://github.com/password-generator/password-check-strength)
+5. 💪 Opened PR [#5](https://github.com/password-generator/password-check-strength/pull/5) in [password-generator/password-check-strength](https://github.com/password-generator/password-check-strength)
   [filipedeschamps/ideia-unica](https://github.com/filipedeschamps/ideia-unica)
   4. 🎉 Merged PR [#39](https://github.com/password-generator/password-generator-web/pull/39) in
   [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
